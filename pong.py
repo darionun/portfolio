@@ -16,7 +16,7 @@ HEIGHT_paddle = 100
 
 class Ball:
     
-    RADIUS = 10
+    RADIUS = 20
 
     def __init__(self, x, y, vx, vy):
         self.x = x
